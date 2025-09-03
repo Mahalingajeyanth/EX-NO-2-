@@ -34,7 +34,7 @@ STEP-5: Display the obtained cipher text.
 
 
 
-Program:
+## Program:
 
 ```
 #include <stdio.h>
@@ -255,7 +255,11 @@ int main() {
 
 
 
-Output:
+## Output:
 <img width="1598" height="868" alt="Screenshot 2025-09-03 084307" src="https://github.com/user-attachments/assets/142e982d-186b-419e-bc1e-6766674796af" />
+
+## Result:
+
+Thus the given playfair cipher program was executed successfully.
 
 
